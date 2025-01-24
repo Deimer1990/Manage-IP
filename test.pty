@@ -9,6 +9,11 @@ def subtract(a, b):
 # Function for multiplication
 def multiply(a, b):
     return a * b
+# Function For substraction Correct this 
+
+Def sudbtr(a,b)
+if b! = 0
+return a+b 
 
 # Function for division
 def divide(a, b):
